@@ -3,7 +3,7 @@ from telegram.ext import Updater
 from telegram.ext import CommandHandler
 from tracker import get_prices
 
-telegram_bot_token = "Telegram_Bot_API_KEY"
+telegram_bot_token = "1372871302:AAHTNbEfrEVLZtLE5m_zOCld9X6Gp_KfIPs"
 
 updater = Updater(token=telegram_bot_token, use_context=True)
 
